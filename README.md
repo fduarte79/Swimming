@@ -1,5 +1,5 @@
 # Meus estudos sobre natação
 
-[Iniciação](iniciacao/inciacao.md)   
+[Conceitos e iniciação](conceito/conceitos.md)   
 
 [Referências](referencias.md)
