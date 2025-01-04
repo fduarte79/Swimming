@@ -1,5 +1,5 @@
 # Meus estudos sobre natação
 
-[Iniciando](iniciando/iniciando.md)   
+[Iniciando e aprendendo movimentos básicos](iniciando/iniciando.md)   
 
 [Referências](referencias.md)
