@@ -1,5 +1,6 @@
 # Meus estudos sobre natação
 
-[Flutuação](flutuacao/flutuacao.md)
+[Iniciação](iniciacao/inciacao.md)
+[Flutuação](conceitosflutuacao/flutuacao.md)
 
 [Referências](referencias.md)
