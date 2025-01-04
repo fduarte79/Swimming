@@ -10,11 +10,18 @@
 [8. Flutuação Vertical](#8)   
 [9. Deslocamento Vertical](#9)   
 
+Algumas dicas sobre flutuabilidade:
+
++ Relaxe o corpo, músculos densos e contraídos tendem a submergir em poucos segundos;
++ Procure deixar o core (todos os músculos do abdômen ativados);
++ Procure deixar alinhados a cabeça, ombros, coluna e quadril; 
++ Pode utilizar um colega ou celular para identificar se houve mudanças na postura.
+
 ---
 
 <a id="1"></a>
 ### 1. Posicionamento do Corpo   
-Objetivo desse exercício é aprender o alinhamento correto da cabeça, ombros, quadril e calcanhares. De costas contra a parede, encoste a cabeça, os ombros, o quadril e os tornozelos contra a parede. Dê alguns passos à frente e retorne à parede novamente e verifique se houve alguma mudança postural. Pode utilizar um colega ou celular para identificar se houve mudanças na postura.
+Objetivo desse exercício é aprender o alinhamento correto da cabeça, ombros, quadril e calcanhares. De costas contra a parede, encoste a cabeça, os ombros, o quadril e os tornozelos contra a parede. Dê alguns passos à frente e retorne à parede novamente e verifique se houve alguma mudança postural. 
 
 <a id="2"></a>
 ### 2. Flutuação Grupada    
@@ -22,7 +29,7 @@ Objetivo desse exercício é criar a sensação de centro de flutuabilidade. Ins
 
 <a id="3"></a>
 ### 3. Flutuação do Nadador Morto   
- aprendendo assim a criar uma intimidade e a relaxar o corpo no ambiente aquático
+Objetivo desse exercício aprendendo assim a criar uma intimidade e a relaxar o corpo no ambiente aquático
 
 <a id="4"></a>
 ### 4. Posição Vertical Hidrodinâmico   
