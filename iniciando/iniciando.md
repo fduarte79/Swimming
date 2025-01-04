@@ -1,3 +1,3 @@
 # Iniciação
 
-[Flutuação](conceitosflutuacao/flutuacao.md)
+[Flutuação](flutuacao/flutuacao.md)
