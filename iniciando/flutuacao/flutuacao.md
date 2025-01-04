@@ -20,35 +20,34 @@ Algumas dicas sobre flutuabilidade:
 ---
 
 <a id="1"></a>
-### 1. Posicionamento do Corpo   
+### 1. Posicionamento do Corpo - básico   
 Objetivo desse exercício é aprender o alinhamento correto da cabeça, ombros, quadril e calcanhares. De costas contra a parede, encoste a cabeça, os ombros, o quadril e os tornozelos contra a parede. Dê alguns passos à frente e retorne à parede novamente e verifique se houve alguma mudança postural. 
 
 <a id="2"></a>
-### 2. Flutuação Grupada    
+### 2. Flutuação Grupada - básico   
 Objetivo desse exercício é criar a sensação de centro de flutuabilidade. Inspire profundamente, prenda a respiração e então com a coluna curvada encaixe o queixo no pescoço. e logo após abrace as pernas na altura dos tornozelos. Deixe o corpo flutuar naturalmente e solte o ar pausadamente.
 
 <a id="3"></a>
-### 3. Flutuação do Nadador Morto   
+### 3. Flutuação do Nadador Morto - básico   
 Objetivo desse exercício é criar intimidade e relaxar o corpo no ambiente aquático. Fique numa posição semelhante ao da flutuação grupada, deixando a coluna curva e o queixo encaixado porém, agora os braços e pernas relaxadas. Deixe que os membros flutuem na superfície da água e se distancie do corpo naturalmente. 
 
 <a id="4"></a>
-### 4. Posição Vertical Hidrodinâmico   
-
+### 4. Flutuação Vertical  
 
 <a id="5"></a>
-### 5. Flutuação em Posição Hidrodinâmica   
-
+### 5. Posição Vertical Hidrodinâmico - intermediário   
+Objetivo deste exercício é aprender sobre o posicionamento dos membros superiores na posição hidrodinâmica. 
 
 <a id="6"></a>
-### 6. Deslizamento   
+### 6. Flutuação em Posição Hidrodinâmica - intermediário  
 
 
 <a id="7"></a>
-### 7. Desizamento Cúbito Dorsal    
+### 7. Deslizamento   
 
 
 <a id="8"></a>
-### 8. Flutuação Vertical   
+### 8. Desizamento Cúbito Dorsal     
 
 
 <a id="9"></a>
