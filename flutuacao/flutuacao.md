@@ -1,6 +1,6 @@
 # Flutuação
 
-[1. Posicionamento do Corpo][#1PosicionamentodoCorpo]
+[1. Posicionamento do Corpo](#1PosicionamentodoCorpo)
 2. Flutuação Grupada
 3. Flutuação do Nadador Morto
 4. Posição Vertical Hidrodinâmico
