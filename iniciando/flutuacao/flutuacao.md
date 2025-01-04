@@ -29,7 +29,7 @@ Objetivo desse exercício é criar a sensação de centro de flutuabilidade. Ins
 
 <a id="3"></a>
 ### 3. Flutuação do Nadador Morto   
-Objetivo desse exercício aprendendo assim a criar uma intimidade e a relaxar o corpo no ambiente aquático
+Objetivo desse exercício é criar intimidade e relaxar o corpo no ambiente aquático. Fique numa posição semelhante ao da flutuação grupada, deixando a coluna curva e o queixo encaixado porém, agora os braços e pernas relaxadas. Deixe que os membros flutuem na superfície da água e se distancie do corpo naturalmente. 
 
 <a id="4"></a>
 ### 4. Posição Vertical Hidrodinâmico   
