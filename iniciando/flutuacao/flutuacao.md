@@ -32,7 +32,7 @@ Objetivo desse exercício é criar a sensação de centro de flutuabilidade. Ins
 Objetivo desse exercício é criar intimidade e relaxar o corpo no ambiente aquático. Fique numa posição semelhante ao da flutuação grupada, deixando a coluna curva e o queixo encaixado porém, agora os braços e pernas relaxadas. Deixe que os membros flutuem na superfície da água e se distancie do corpo naturalmente. 
 
 <a id="4"></a>
-### 4. Flutuação Vertical  
+### 4. Flutuação Vertical - básico
 
 <a id="5"></a>
 ### 5. Posição Vertical Hidrodinâmico - intermediário   
