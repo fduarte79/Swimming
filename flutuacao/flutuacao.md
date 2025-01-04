@@ -18,26 +18,34 @@ Objetivo desse exercício é aprender o alinhamento correto da cabeça, ombros, 
 
 <a id="2"></a>
 ### 2. Flutuação Grupada    
+Objetivo desse exercício é criar a sensação de centro de flutuabilidade. Inspire profundamente, prenda a respiração e então com a coluna curvada encaixe o queixo no pescoço. e logo após abrace as pernas na altura dos tornozelos. Deixe o corpo flutuar naturalmente e solte o ar pausadamente.
 
 <a id="3"></a>
 ### 3. Flutuação do Nadador Morto   
+ aprendendo assim a criar uma intimidade e a relaxar o corpo no ambiente aquático
 
 <a id="4"></a>
 ### 4. Posição Vertical Hidrodinâmico   
 
+
 <a id="5"></a>
 ### 5. Flutuação em Posição Hidrodinâmica   
+
 
 <a id="6"></a>
 ### 6. Deslizamento   
 
+
 <a id="7"></a>
 ### 7. Desizamento Cúbito Dorsal    
+
 
 <a id="8"></a>
 ### 8. Flutuação Vertical   
 
+
 <a id="9"></a>
 ### 9. Deslocamento Vertical    
+
 
 [Home](../README.md)
