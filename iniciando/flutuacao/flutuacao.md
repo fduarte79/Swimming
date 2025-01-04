@@ -54,6 +54,7 @@ Objetivo desse exercício é criar intimidade e relaxar o corpo no ambiente aqu�
 <a id="9"></a>
 ### 9. Deslocamento Vertical    
 
+---
 
-[Iniciação](../iniciando.md)
-[Home](../../README.md)
+[Iniciação](../iniciando.md)    
+[Home](../../README.md)    
