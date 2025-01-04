@@ -6,7 +6,7 @@
 [4. Posição Vertical Hidrodinâmico](#4)    
 [5. Flutuação em Posição Hidrodinâmica](#5)    
 [6. Deslizamento](#6)   
-[7. Desizamento Cúbito Dorsal](#7)   
+[7. Deslizamento Cúbito Dorsal](#7)   
 [8. Flutuação Vertical](#8)   
 [9. Deslocamento Vertical](#9)   
 
@@ -47,7 +47,7 @@ Objetivo deste exercício é aprender sobre o posicionamento dos membros superio
 
 
 <a id="8"></a>
-### 8. Desizamento Cúbito Dorsal     
+### 8. Deslizamento Cúbito Dorsal     
 
 
 <a id="9"></a>
