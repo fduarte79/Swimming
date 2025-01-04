@@ -1,10 +1,10 @@
 # Flutuação
 
 [1. Posicionamento do Corpo](#1)   
-[2. Flutuação Grupada](#2)
-[3. Flutuação do Nadador Morto](#3)
-[4. Posição Vertical Hidrodinâmico](#4)   
-[5. Flutuação em Posição Hidrodinâmica](#5)   
+[2. Flutuação Grupada](#2)   
+[3. Flutuação do Nadador Morto](#3)   
+[4. Posição Vertical Hidrodinâmico](#4)    
+[5. Flutuação em Posição Hidrodinâmica](#5)    
 [6. Deslizamento](#6)   
 [7. Desizamento Cúbito Dorsal](#7)   
 [8. Flutuação Vertical](#8)   
