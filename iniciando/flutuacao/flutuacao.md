@@ -15,7 +15,7 @@ Algumas dicas sobre flutuabilidade:
 + Relaxe o corpo, músculos densos e contraídos tendem a submergir em poucos segundos;
 + Procure deixar o core (todos os músculos do abdômen ativados);
 + Procure deixar alinhados a cabeça, ombros, coluna e quadril; 
-+ Pode utilizar um colega ou celular para identificar se houve mudanças na postura.
++ Pode utilizar um colega ou celular para identificar mudanças na postura.
 
 ---
 
