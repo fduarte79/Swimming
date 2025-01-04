@@ -1,2 +1,3 @@
-# natacao
-Meus estudos sobre natação
+# Meus estudos sobre natação
+
+[Referências](referencias.md)
