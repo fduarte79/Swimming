@@ -1,6 +1,6 @@
 # Flutuação
 
-[. Posicionamento do Corpo](#)
+[. Posicionamento do Corpo](#)    
 [. Posição Vertical Hidrodinâmico](#)    
 [. Flutuação Grupada](#)   
 [. Flutuação do Nadador Morto](#)   
