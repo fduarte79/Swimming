@@ -6,9 +6,11 @@
 [. Flutuação do Nadador Morto](#)   
 [. Flutuação Vertical](#)   
 [. Flutuação em Posição Hidrodinâmica](#)    
-[. Deslizamento](#)   
-[. Deslizamento Cúbito Dorsal](#)   
 [. Deslocamento Vertical](#)   
+[. Deslizamento Cúbito Dorsal](#)   
+[. Deslizamento](#)   
+
+
 
 Algumas dicas sobre flutuabilidade:
 
@@ -43,7 +45,7 @@ Objetivo desse exercício é o controle e da flutuação bem como da posição e
 ### . Flutuação em Posição Hidrodinâmica - intermediário  
  
 <a id=""></a>
-### . Deslizamento   
+### . Deslizamento Cúbito Ventral  
 
 <a id=""></a>
 ### . Deslizamento Cúbito Dorsal     
