@@ -50,7 +50,8 @@ Objetivo desse exercício é o controle e da flutuação bem como da posição e
 ### . Flutuação Cúbito Dorsal - intermediário
 
 <a id=""></a>
-### . Flutuação em Posição Hidrodinâmica - intermediário  
+### . Flutuação em Posição Hidrodinâmica de Cúbito Ventral - difícil  
+Objetivo desse exercício é de que o aluno aprenda a transição de flutuação do nadador morto para o de posição hidrodinâmica. Este exercício possi uma grau de dificuldade elevada pois exige um controle corporal. em posição de flutuação do nadador morto, vá mudando gradativamente para o de posição hidrodinâmica, estendendo os braços e as pernas. Caso as pernas afundem, comprima o core.
  
 <a id=""></a>
 ### . Deslizamento Cúbito Ventral  
