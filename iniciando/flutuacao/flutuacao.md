@@ -40,7 +40,7 @@ Objetivo deste exercício é aprender sobre o posicionamento dos membros superio
 
 <a id="6"></a>
 ### 6. Flutuação em Posição Hidrodinâmica - intermediário  
-
+ 
 
 <a id="7"></a>
 ### 7. Deslizamento   
