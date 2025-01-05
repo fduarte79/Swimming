@@ -1,14 +1,14 @@
 # Flutuação
 
-[1. Posicionamento do Corpo](#1)   
-[2. Flutuação Grupada](#2)   
-[3. Flutuação do Nadador Morto](#3)   
-[4. Flutuação Vertical](#4)   
-[5. Posição Vertical Hidrodinâmico](#5)    
-[6. Flutuação em Posição Hidrodinâmica](#6)    
-[7. Deslizamento](#7)   
-[8. Deslizamento Cúbito Dorsal](#8)   
-[9. Deslocamento Vertical](#9)   
+[. Posicionamento do Corpo](#)
+[. Posição Vertical Hidrodinâmico](#)    
+[. Flutuação Grupada](#)   
+[. Flutuação do Nadador Morto](#)   
+[. Flutuação Vertical](#)   
+[. Flutuação em Posição Hidrodinâmica](#)    
+[. Deslizamento](#)   
+[. Deslizamento Cúbito Dorsal](#)   
+[. Deslocamento Vertical](#)   
 
 Algumas dicas sobre flutuabilidade:
 
@@ -20,8 +20,12 @@ Algumas dicas sobre flutuabilidade:
 ---
 
 <a id="1"></a>
-### 1. Posicionamento do Corpo - básico   
+### 1. Posicionamento do Corpo - iniciante   
 Objetivo desse exercício é aprender o alinhamento correto da cabeça, ombros, quadril e calcanhares. De costas contra a parede, encoste a cabeça, os ombros, o quadril e os tornozelos contra a parede. Dê alguns passos à frente e retorne à parede novamente e verifique se houve alguma mudança postural. 
+
+<a id="5"></a>
+### 5. Posição Vertical Hidrodinâmico - iniciante   
+Objetivo deste exercício é aprender sobre o posicionamento dos membros superiores na posição hidrodinâmica. De costas contra a parede, encoste a cabeça, os ombros, o quadril e os tornozelos contra a parede. Abaixe o queixo flexionando a cabeça para frente e com os braços estendidos acima da cabeç. Coloque uma mão sobre a outra juntando os dedos e prendendo o polegar da mão superior na mão inferior e a cabeça encaixada entre os braços.
 
 <a id="2"></a>
 ### 2. Flutuação Grupada - básico   
@@ -33,10 +37,6 @@ Objetivo desse exercício é criar intimidade e relaxar o corpo no ambiente aqu�
 
 <a id="4"></a>
 ### 4. Flutuação Vertical - básico
-
-<a id="5"></a>
-### 5. Posição Vertical Hidrodinâmico - intermediário   
-Objetivo deste exercício é aprender sobre o posicionamento dos membros superiores na posição hidrodinâmica. 
 
 <a id="6"></a>
 ### 6. Flutuação em Posição Hidrodinâmica - intermediário  
