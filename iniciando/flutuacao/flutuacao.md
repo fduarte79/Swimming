@@ -19,39 +19,36 @@ Algumas dicas sobre flutuabilidade:
 
 ---
 
-<a id="1"></a>
-### 1. Posicionamento do Corpo - iniciante   
+<a id=""></a>
+### . Posicionamento do Corpo - iniciante   
 Objetivo desse exercício é aprender o alinhamento correto da cabeça, ombros, quadril e calcanhares. De costas contra a parede, encoste a cabeça, os ombros, o quadril e os tornozelos contra a parede. Dê alguns passos à frente e retorne à parede novamente e verifique se houve alguma mudança postural. 
 
-<a id="5"></a>
-### 5. Posição Vertical Hidrodinâmico - iniciante   
+<a id=""></a>
+### . Posição Vertical Hidrodinâmico - iniciante   
 Objetivo deste exercício é aprender sobre o posicionamento dos membros superiores na posição hidrodinâmica. De costas contra a parede, encoste a cabeça, os ombros, o quadril e os tornozelos contra a parede. Abaixe o queixo flexionando a cabeça para frente e com os braços estendidos acima da cabeç. Coloque uma mão sobre a outra juntando os dedos e prendendo o polegar da mão superior na mão inferior e a cabeça encaixada entre os braços.
 
-<a id="2"></a>
-### 2. Flutuação Grupada - básico   
+<a id=""></a>
+### . Flutuação Grupada - básico   
 Objetivo desse exercício é criar a sensação de centro de flutuabilidade. Inspire profundamente, prenda a respiração e então com a coluna curvada encaixe o queixo no pescoço. e logo após abrace as pernas na altura dos tornozelos. Deixe o corpo flutuar naturalmente e solte o ar pausadamente.
 
-<a id="3"></a>
-### 3. Flutuação do Nadador Morto - básico   
+<a id=""></a>
+### . Flutuação do Nadador Morto - básico   
 Objetivo desse exercício é criar intimidade e relaxar o corpo no ambiente aquático. Fique numa posição semelhante ao da flutuação grupada, deixando a coluna curva e o queixo encaixado porém, agora os braços e pernas relaxadas. Deixe que os membros flutuem na superfície da água e se distancie do corpo naturalmente. 
 
-<a id="4"></a>
-### 4. Flutuação Vertical - básico
+<a id=""></a>
+### . Flutuação Vertical - básico
 
-<a id="6"></a>
-### 6. Flutuação em Posição Hidrodinâmica - intermediário  
+<a id=""></a>
+### . Flutuação em Posição Hidrodinâmica - intermediário  
  
+<a id=""></a>
+### . Deslizamento   
 
-<a id="7"></a>
-### 7. Deslizamento   
+<a id=""></a>
+### . Deslizamento Cúbito Dorsal     
 
-
-<a id="8"></a>
-### 8. Deslizamento Cúbito Dorsal     
-
-
-<a id="9"></a>
-### 9. Deslocamento Vertical    
+<a id=""></a>
+### . Deslocamento Vertical    
 
 ---
 
