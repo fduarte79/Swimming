@@ -5,6 +5,8 @@
 [. Flutuação Grupada](#)   
 [. Flutuação do Nadador Morto](#)   
 [. Flutuação Vertical](#)   
+[. Flutuação Cúbito Ventral](#)   
+[. Flutuação Cúbito Dorsal](#)   
 [. Flutuação em Posição Hidrodinâmica](#)    
 [. Deslocamento Vertical](#)   
 [. Deslizamento Cúbito Dorsal](#)   
@@ -40,6 +42,12 @@ Objetivo desse exercício é criar intimidade e relaxar o corpo no ambiente aqu�
 <a id=""></a>
 ### . Flutuação Vertical - intermediário
 Objetivo desse exercício é o controle e da flutuação bem como da posição em vertical. Inspire profundamente e prenda a respiração de forma que o corpo desloca-se naturalmente para cima e para baixo. Incline a cabeça para trás ao subir e continue a respiração por pelo menos 30 segundos.
+
+<a id=""></a>
+### . Flutuação Cúbito Ventral - intermediário
+
+<a id=""></a>
+### . Flutuação Cúbito Dorsal - intermediário
 
 <a id=""></a>
 ### . Flutuação em Posição Hidrodinâmica - intermediário  
