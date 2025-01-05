@@ -6,12 +6,12 @@
 [04. Flutuação do Nadador Morto - intermediário](#04)   
 [05. Flutuação Vertical - intermediário](#05)   
 [06. Flutuação Cúbito Ventral - intermediário](#06)   
-[07. Flutuação Cúbito Dorsal - intermediário](#07)   
-[08. Flutuação em Posição Hidrodinâmica de Cúbito Ventral - difícil](#08) 
-[09. Flutuação em Posição Hidrodinâmica de Cúbito Dorsal - difícil](#09)
-[10. Deslocamento Vertical](#10)   
-[11. Deslizamento Cúbito Dorsal](#11)   
-[12. Deslizamento Cúbito Ventral](#12)   
+[07. Flutuação Cúbito Dorsal - intermediário](#07)    
+[08. Flutuação em Posição Hidrodinâmica de Cúbito Ventral - difícil](#08)    
+[09. Flutuação em Posição Hidrodinâmica de Cúbito Dorsal - difícil](#09)    
+[10. Deslocamento Vertical - avançado](#10)   
+[11. Deslizamento Cúbito Dorsal - avançado](#11)    
+[12. Deslizamento Cúbito Ventral - avançado](#12)    
 
 
 
@@ -58,13 +58,13 @@ Objetivo desse exercício é de que o aluno aprenda a transição de flutuação
 ### 09. Flutuação em Posição Hidrodinâmica de Cúbito Dorsal - difícil  
 
 <a id="10"></a>
-### 10. Deslocamento Vertical    
+### 10. Deslocamento Vertical - avançado    
 
 <a id="11"></a>
-### 11. Deslizamento Cúbito Dorsal
+### 11. Deslizamento Cúbito Dorsal - avançado   
 
 <a id="12"></a>
-### 12. Deslizamento Cúbito Ventral       
+### 12. Deslizamento Cúbito Ventral - avançado      
 
 ---
 
