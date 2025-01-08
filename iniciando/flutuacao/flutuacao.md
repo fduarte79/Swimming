@@ -46,7 +46,7 @@ Objetivo desse exercício é o controle e da flutuação bem como da posição e
 
 <a id="06"></a>
 ### 06. Flutuação Cúbito Ventral - intermediário
-
+ 
 <a id="07"></a>
 ### 07. Flutuação Cúbito Dorsal - intermediário
 
