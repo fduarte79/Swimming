@@ -30,7 +30,7 @@ Objetivo desse exercício é aprender o alinhamento correto da cabeça, ombros, 
 
 <a id="02"></a>
 ### 02. Posição Vertical Hidrodinâmico - básico   
-Objetivo deste exercício é aprender sobre o posicionamento dos membros superiores na posição hidrodinâmica. De costas contra a parede, encoste a cabeça, os ombros, o quadril e os tornozelos contra a parede. Abaixe o queixo flexionando a cabeça para frente e com os braços estendidos acima da cabeç. Coloque uma mão sobre a outra juntando os dedos e prendendo o polegar da mão superior na mão inferior e a cabeça encaixada entre os braços.
+Objetivo deste exercício é aprender sobre o posicionamento dos membros superiores na posição hidrodinâmica. De costas contra a parede, encoste a cabeça, os ombros, o quadril e os tornozelos contra a parede. Abaixe o queixo flexionando a cabeça para frente e com os braços estendidos acima da cabeça. Coloque uma mão sobre a outra juntando os dedos e prendendo o polegar da mão superior na mão inferior e a cabeça encaixada entre os braços.
 
 <a id="03"></a>
 ### 03. Flutuação Grupada - intermediário   
