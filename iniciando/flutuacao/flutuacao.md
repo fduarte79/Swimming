@@ -34,7 +34,7 @@ Objetivo deste exercício é aprender sobre o posicionamento dos membros superio
 
 <a id="03"></a>
 ### 03. Flutuação Grupada - intermediário   
-Objetivo desse exercício é criar a sensação de centro de flutuabilidade. Inspire profundamente, prenda a respiração e então com a coluna curvada encaixe o queixo no pescoço. e logo após abrace as pernas na altura dos tornozelos. Deixe o corpo flutuar naturalmente e solte o ar pausadamente.
+Objetivo desse exercício é criar a sensação de centro de flutuabilidade. Inspire profundamente, prenda a respiração e então com a coluna curvada encaixe o queixo no pescoço. Após abrace as pernas na altura dos tornozelos. Deixe o corpo flutuar naturalmente e solte o ar pausadamente.
 
 <a id="04"></a>
 ### 04. Flutuação do Nadador Morto - intermediário   
